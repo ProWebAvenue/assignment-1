@@ -8,6 +8,9 @@
 .h1 {
   display: block;
   font-size: 2em;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  color:#006666;
+  background-color:#333333;
   margin-top: 0.67em;
   margin-bottom: 0.67em;
   margin-left: 0;
